@@ -1,4 +1,4 @@
-# Contador de 100 a 1
+# Contador de 100 a 1 - VKQC
 contador = 100
 while contador >= 1:
     print (contador)
